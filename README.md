@@ -8,7 +8,7 @@
 
 <p>
 
-<a href="https://new-portfolio-virid-psi.vercel.app/">
+<a href="https://abhijithkumar3.vercel.app/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-4F46E5?style=for-the-badge" />
 </a>
 
