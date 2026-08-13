@@ -44,7 +44,7 @@
 
 ### 🌐 Live Portfolio
 
-👉 **https://new-portfolio-virid-psi.vercel.app/**
+👉 **https://abhijithkumar3.vercel.app/**
 
 ---
 
