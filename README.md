@@ -127,9 +127,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhijith6123&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhijithkumar3&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijith6123&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijithkumar3&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -139,7 +139,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijith6123&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithkumar3&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -149,7 +149,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abhijith6123&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abhijithkumar3&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -159,7 +159,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijith6123&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijithkumar3&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
